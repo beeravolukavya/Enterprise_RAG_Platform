@@ -1,0 +1,1 @@
+Atlas Corp policy: Security incidents must be reported within 24 hours. Data owners review access quarterly. Production changes require peer review and an approved change ticket.
